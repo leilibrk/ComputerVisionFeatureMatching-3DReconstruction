@@ -50,4 +50,4 @@ The project includes the following outputs:
 
 ## License
 
-This project is part of academic coursework and is intended for educational purposes.
+This project is for academic purposes and follows the coursework submission guidelines of Imperial College London. Please do not directly reuse the code for academic submissions without proper attribution.
